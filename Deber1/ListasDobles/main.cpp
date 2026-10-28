@@ -27,6 +27,7 @@ int main() {
     miLista.imprimirAdelante();
     miLista.imprimirAtras();
 
+    //Prueba metodo implementado
     cout << "\n=== PRUEBA DE INVERSION ===\n";
     miLista.invertir();
 

@@ -97,6 +97,7 @@ void ListaDoble::imprimirAtras() {
     cout << "NULL\n";
 }
 
+//Metodo implementado
 void ListaDoble::invertir() {
     Nodo* actual = cabeza;
     Nodo* temporal = nullptr;
